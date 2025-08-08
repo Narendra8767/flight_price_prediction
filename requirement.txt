@@ -1,4 +1,6 @@
 flask
+flask-wtf
+wtforms
 numpy
 pandas
 scikit-learn
